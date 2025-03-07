@@ -6,6 +6,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class PsaGitExamplesApplicationTests {
 
+	int x=100;
+	
+
 	@Test
 	void contextLoads() {
 	}
